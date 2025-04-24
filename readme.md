@@ -11,7 +11,6 @@ L'objectif était de mettre en pratique les notions de :
 ---
 
 ## Aperçu du projet  
-> Capture d’écran de l’exécution du programme :  
 ![Aperçu](./apercu.png)
 
 ---
